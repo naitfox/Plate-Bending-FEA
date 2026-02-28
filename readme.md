@@ -1,7 +1,3 @@
-This is a complete transcription of your Plate Bending FEA notes, formatted in clean Markdown with LaTeX for the mathematical expressions. You can save this as a `.md` file for your GitHub repository.
-
----
-
 # Plate Bending (FEA)
 
 ## Problem Statement
@@ -120,4 +116,6 @@ $$w_{max} = \frac{0.00406 \times 33.6 \times 10^3 \times 2^4}{1.83 \times 10^4} 
 
 ---
 
-Would you like me to help you write a Python or MATLAB script to implement this $K_e$ matrix calculation?
+## Authors
+
+Jena
