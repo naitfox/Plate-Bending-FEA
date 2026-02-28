@@ -70,8 +70,7 @@ Where $[a]$ is the coefficient matrix: $[a] = [a_1, a_2, a_3, \dots, a_{12}]^T$.
 
 The strain matrix $\{\varepsilon\}$ is given by:
 
-
-$$\left\{ -\frac{\partial^2 w}{\partial x^2}, -\frac{\partial^2 w}{\partial y^2}, -2\frac{\partial^2 w}{\partial x \partial y} \right\}$$
+\left\{ -\frac{\partial^2 w}{\partial x^2}, -\frac{\partial^2 w}{\partial y^2}, -2\frac{\partial^2 w}{\partial x \partial y} \right\}
 
 ### Element Stiffness Matrix ($K_e$)
 
