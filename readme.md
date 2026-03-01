@@ -113,7 +113,7 @@ Given $\alpha = 0.00406$ (for $\sigma = 0.3$):
 $$w_{max} = \frac{0.00406 \times 33.6 \times 10^3 \times 2^4}{1.83 \times 10^4} = 0.119 \text{ m}$$
 
 **Conclusion:** The theoretical maximum central deflection is approximately **$0.12 \text{ m}$**, which can be used to verify the code results.
-
+![image](./ss_plate_uniform_load.png)
 ---
 
 ## Authors
